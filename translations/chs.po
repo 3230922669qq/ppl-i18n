@@ -1,66 +1,66 @@
-#. The template for the description of score-related achievements.
-#. `%1$s` will be replaced by the name of the level.
-#. `%2$s` will be replaced by the score to reach.
-#. For example:
-#. "In Eskiv, score 10000 or more"
-#: /client/application/account/achievements_description.cpp:17
-msgid "In %1$s, score %2$s or more."
-msgstr ""
+#.评分相关业绩描述模板。
+#。“%1$s”将替换为级别名称。
+#。“%2$s”将替换为要达到的分数。
+#.例如：
+#."在爱斯基夫，得分10000或更高"
+#：/client/application/accounts/results_description。CPP:17
+msgid"在%1$s中，得分%2$s或更多。"
+msgstr"在%1$s中，得分%2$s或更高"
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:330
-msgid "Ouch"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。请随意
+#。根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:330
+msgid"Ouch"
+msgstr"哎呦"
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:333
-msgid "Yikes"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。请随意
+#。根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:333
+msgid""
+msgstr""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:336
-msgid "Ow"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。请随意
+#。根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:336
+msgid"Ow"
+msgstr"OW"
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:339
-msgid "Ugh"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。请随意
+#。根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:339
+msgid"Ugh"
+msgstr"啊"
 
-#: /client/application/game/game.cpp:177
-msgid "Quick pause"
-msgstr "快速暂停"
+#：/client/application/game/game.cpp:177
+msgid"快速暂停"
+msgstr"快速暂停"
 
-#: /client/application/game/game.cpp:183
-msgid "Quick pause %s"
-msgstr "快速暂停 %s"
+#：/client/application/game/game.cpp:183
+msgid"快速暂停%s"
+msgstr"快速暂停%s"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "1p"
-msgstr "1p"
+#：/client/application/game/game_constants。CPP:12
+msgid"1p"
+msgstr"1p"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "2p"
-msgstr "2p"
+#：/client/application/game/game_constants。CPP:12
+msgid"2p"
+msgstr"2p"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "3p"
-msgstr "3p"
+#：/client/application/game/game_constants。CPP:12
+msgid"3p"
+msgstr"3p"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "4p"
-msgstr "4p"
+#：/client/application/game/game_constants。CPP:12
+msgid"4p"
+msgstr"4p"
 
-#. Short description of the "asteroids" game mode
-#: /client/application/game/levels/game_levels.cpp:97
-msgid "Euclidean space is overrated"
-msgstr "欧氏空间被过誉了"
+#.《小行星》游戏模式简述
+#：/client/application/game/level/game_level。CPP:97
+msgid"欧几里得空间被高估"
+msgstr"欧氏空间被过誉了"
 
-#. Short description of the "hexagon" game mode
+#.“六角形”游戏模式简述
 #: /client/application/game/levels/game_levels.cpp:116
 msgid "Never trust a six-sided polygon"
 msgstr "永远不要相信一个六边形"
@@ -123,22 +123,22 @@ msgstr "\"这一关是个笑话，对吗？\" - 一名测试者"
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "和平主义的演变"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:224
 msgid "True bullet hell"
-msgstr ""
+msgstr "真正的子弹地狱"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:226
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "强大的火力带来强大的闪避技巧"
 
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "把东西套起来让它们消失"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
@@ -153,7 +153,7 @@ msgstr "新的铜牌"
 #. Shown in a notification when a new speedrun medal is earned.
 #: /client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
-msgstr ""
+msgstr "新的极速铜牌"
 
 #. Shown in a notification when a new score medal is earned.
 #: /client/application/game/levels/medals.cpp:19
@@ -163,7 +163,7 @@ msgstr "新的银牌"
 #. Shown in a notification when a new speedrun medal is earned.
 #: /client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr ""
+msgstr "新的极速银牌"
 
 #. Shown in a notification when a new score medal is earned.
 #: /client/application/game/levels/medals.cpp:24
@@ -173,7 +173,7 @@ msgstr "新的金牌"
 #. Shown in a notification when a new speedrun medal is earned.
 #: /client/application/game/levels/medals.cpp:26
 msgid "New gold speedrun medal"
-msgstr ""
+msgstr "新的极速金牌"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:146
 msgid "You've been signed out."
@@ -193,11 +193,11 @@ msgstr "上传成就失败"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:349
 msgid "Failed to download unlocked items"
-msgstr ""
+msgstr "无法下载已解锁的项目"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "无法下载数据"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -220,42 +220,42 @@ msgstr "成就解锁：%s"
 #. Describes the rarity level of items. Rarity level of 0.
 #: /client/application/game/player_data/player_unlocked_items.cpp:321
 msgid "Common"
-msgstr ""
+msgstr "常见"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: /client/application/game/player_data/player_unlocked_items.cpp:323
 msgid "Uncommon"
-msgstr ""
+msgstr "稀有"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: /client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
-msgstr ""
+msgstr "罕见"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: /client/application/game/player_data/player_unlocked_items.cpp:327
 msgid "Epic"
-msgstr ""
+msgstr "卓越"
 
 #. Describes the rarity level of items. Rarity level of 4.
 #: /client/application/game/player_data/player_unlocked_items.cpp:329
 msgid "Legendary"
-msgstr ""
+msgstr "史诗"
 
 #. Describes the rarity level of items. Rarity level of 5.
 #: /client/application/game/player_data/player_unlocked_items.cpp:331
 msgid "Mythical"
-msgstr ""
+msgstr "传奇"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: /client/application/game/player_data/player_unlocked_items.cpp:333
 msgid "Transcendent"
-msgstr ""
+msgstr "神话"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:27
 msgid "Ship"
-msgstr ""
+msgstr "飞船"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:29
@@ -265,27 +265,27 @@ msgstr "尾迹"
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:31
 msgid "Bullet"
-msgstr ""
+msgstr "子弹"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:33
-msgid "Mace"
-msgstr ""
+msgid "Ship"
+msgstr "电锯"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:35
 msgid "Laser"
-msgstr ""
+msgstr "激光"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:37
 msgid "Joystick"
-msgstr ""
+msgstr "摇杆"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:39
 msgid "UI Color"
-msgstr ""
+msgstr "UI颜色"
 
 #: /client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -355,12 +355,12 @@ msgstr "继续"
 #. Shown when the player failed to achieve an objective
 #: /client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
-msgstr ""
+msgstr "失败"
 
 #. Shown when the player successfully achieved an objective
 #: /client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
-msgstr ""
+msgstr "成功！"
 
 #: /client/application/game/ui/game_over_ui.cpp:113
 msgid "Exit"
@@ -643,12 +643,12 @@ msgstr "全球排行榜"
 #. stars and medals shown are *not* specific to an era.
 #: /client/application/game/ui/screens/screen_career.cpp:78
 msgid "All time stars and medals"
-msgstr ""
+msgstr "所有时间之星和奖章"
 
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "等级 %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -658,15 +658,15 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "成就"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "XP 排行榜"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "所有排行榜"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -707,12 +707,12 @@ msgstr "高"
 #. The name of the graphics configuration that enables all the graphical effects.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:55
 msgid "Highest"
-msgstr ""
+msgstr "最高"
 
 #. Title of the screen where graphics are configured.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:93
 msgid "Configure graphics"
-msgstr ""
+msgstr "图形设置"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
@@ -724,16 +724,16 @@ msgstr "开启"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "简朴"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "先进"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
 msgid "Bloom intensity"
-msgstr ""
+msgstr "Bloom 强度"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
@@ -744,12 +744,12 @@ msgstr ""
 #. The name of the setting that enables horizontal scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:138
 msgid "horizontal"
-msgstr ""
+msgstr "水平的"
 
 #. The name of setting that enables grid-like scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "grid"
-msgstr ""
+msgstr "网格"
 
 #. The name for the setting category for choosing the scalines type.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:142
@@ -759,39 +759,39 @@ msgstr ""
 #. The name for the setting category for choosing the chromatic aberration.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:148
 msgid "Chromatic aberration"
-msgstr ""
+msgstr "色差"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:157
 msgid "Curved monitor"
-msgstr ""
+msgstr "曲线监视器"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:166
 msgid "Vignette"
-msgstr ""
+msgstr "装饰图案"
 
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:186
 msgid "Black"
-msgstr ""
+msgstr "黑色"
 
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
 msgid "Blue"
-msgstr ""
+msgstr "蓝色"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr ""
+msgstr "蓝绿色"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
 msgid "Green"
-msgstr ""
+msgstr "绿色"
 
 #. The color "pink"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:194
@@ -802,7 +802,7 @@ msgstr "粉色"
 #. renderer.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:199
 msgid "Background hue"
-msgstr ""
+msgstr "背景色调"
 
 #. Name of the setting for when the game is shown in a window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:213
@@ -817,11 +817,11 @@ msgstr "全屏"
 #. Name of the setting for when the game is shown in a borderless window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:217
 msgid "Borderless"
-msgstr ""
+msgstr "无边界"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:228
-msgid "Screen type"
+msgid ""
 msgstr ""
 
 #. The title of the screen that allows selecting the graphical appearance of
@@ -851,8 +851,8 @@ msgstr "鼠标瞄准 %s"
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Quick Restart: Space".
 #: /client/application/game/ui/screens/screen_configure_keyboard.cpp:258
-msgid "Quick Restart: %s"
-msgstr ""
+msgid ": %s"
+msgstr "快速重新启动 %s"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Slow Down: Shift".
@@ -895,12 +895,12 @@ msgstr "百科"
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:31
 msgid "New World Record"
-msgstr ""
+msgstr "新的世界纪录"
 
 #. Title string for new community level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:33
 msgid "New Level"
-msgstr ""
+msgstr "新等级"
 
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:35
